@@ -1,6 +1,4 @@
-![Endeavour Logo](http://www.endeavourhealth.org/github/logo-text-left-cropped.png)
-
-# Endeavour Data Service
+# Voror Health Platform
 
 ## Pre-requisites
 
